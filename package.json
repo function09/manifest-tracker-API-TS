@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
+    "start": "node dist/server.js",
     "startts": "npx tsx",
-    "refresh": "nodemon server.js"
+    "refresh": "nodemon dist/server.js"
   },
   "author": "",
   "license": "ISC",
